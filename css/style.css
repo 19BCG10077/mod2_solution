@@ -16,6 +16,10 @@ section {
     border: 1px solid black;
     background-color: #b5c4d2;
     margin: 10px;
+    width: 75%;
+    height: 300px;
+    position: relative;
+    overflow: auto;
 }
 
 section>h2 {
